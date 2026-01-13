@@ -22,6 +22,3 @@
 7. Запуск 2 - обработка обновления БП3 
 8. Запуск 3 - чистим остатки обработкой 2 и 3
 <br>
-<p align="center">
-  <img src="https://dev1c.tech/wp-content/uploads/2025/12/image-5.png"  alt="QR-код для донатов" />
-</p>
